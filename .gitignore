@@ -1,4 +1,5 @@
 build/
+ipch/
 lib/
 x64/
 *.ncb
